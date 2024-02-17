@@ -1,0 +1,240 @@
+[
+  {
+    "waktu": "16/02/2024 18:51:58 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "108.24 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kota Tasikmalaya",
+    "warning": [
+      "II-III Tasikmalaya",
+      "II-III Pangandaran",
+      "II-III Ciamis"
+    ]
+  },
+  {
+    "waktu": "16/02/2024 15:22:48 WIB",
+    "lintang": "2.15 LU",
+    "bujur": "97.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km Tenggara Kab. Aceh Singkil",
+    "warning": [
+      "III - IV Kab. Aceh Singkil",
+      "III Kota Subulussalam"
+    ]
+  },
+  {
+    "waktu": "15/02/2024 22:54:03 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "112.22 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Kab. Blitar",
+    "warning": [
+      "II Blitar",
+      "II Karangkates",
+      "II Trenggalek",
+      "II Malang",
+      "II Pacitan"
+    ]
+  },
+  {
+    "waktu": "15/02/2024 18:25:09 WIB",
+    "lintang": "5.05 LS",
+    "bujur": "123.22 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
+    "warning": [
+      "II-III Lasalimu"
+    ]
+  },
+  {
+    "waktu": "14/02/2024 01:32:02 WIB",
+    "lintang": "3.26 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km timur laut Banjar",
+    "warning": [
+      "II-III Kab. Banjar"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 14:09:17 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "115.18 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km TimurLaut Banjar",
+    "warning": [
+      "III Kab. Banjar"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 09:51:56 WIB",
+    "lintang": "2.05 LU",
+    "bujur": "98.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 08:22:24 WIB",
+    "lintang": "3.19 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Timur Laut Banjarmasin",
+    "warning": [
+      "II-III Banjarmasin",
+      "II-III Kota Marabahan",
+      "II-III Pulau Pisau",
+      "II-III Palangkaraya",
+      "II-III Sampit"
+    ]
+  },
+  {
+    "waktu": "12/02/2024 04:04:22 WIB",
+    "lintang": "10.4 LS",
+    "bujur": "124.22 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km Tenggara Kab. Kupang",
+    "warning": [
+      "II-III Kota Kupang"
+    ]
+  },
+  {
+    "waktu": "11/02/2024 20:06:10 WIB",
+    "lintang": "8.63 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 2 Km Tenggara Ruteng",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
+    "waktu": "11/02/2024 17:42:01 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.42 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Ruteng-Manggarai",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
+    "waktu": "10/02/2024 21:44:30 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "140.06 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA",
+    "warning": [
+      "II Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "10/02/2024 06:53:26 WIB",
+    "lintang": "0.05 LS",
+    "bujur": "135.93 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 82 km Timur Laut SUPIORI",
+    "warning": [
+      "II-III Biak"
+    ]
+  },
+  {
+    "waktu": "09/02/2024 00:59:21 WIB",
+    "lintang": "3.99 LS",
+    "bujur": "122.55 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Baratlaut Kota Kendari",
+    "warning": [
+      "III Kendari",
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "08/02/2024 23:37:01 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "102.42 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Barat Daya Rejang Lebong",
+    "warning": [
+      "III Kepahiang",
+      "III Rejang Lebong"
+    ]
+  },
+  {
+    "waktu": "08/02/2024 01:31:03 WIB",
+    "lintang": "7.64 LS",
+    "bujur": "106.91 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 80 km BaratDaya Kota Sukabumi",
+    "warning": [
+      "II Kab. Sukabumi",
+      "II Kab. Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 21:05:24 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "140.27 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "92 Km",
+    "wilayah": "Pusat gempa berada di darat 66 km Barat Laut Pegunungan Bintang",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 19:38:46 WIB",
+    "lintang": "0.42 LS",
+    "bujur": "124.27 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
+    "warning": [
+      "II - III Banggai Laut"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 17:25:16 WIB",
+    "lintang": "0.77 LU",
+    "bujur": "121.38 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "73 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Buol",
+    "warning": [
+      "III Tolitoli",
+      "III Pohuwatu",
+      "II - III Boalemo"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 08:27:54 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat laut Kab. Cianjur",
+    "warning": [
+      "II Pacet",
+      "II Cugenang",
+      "II Cianjur"
+    ]
+  }
+]
