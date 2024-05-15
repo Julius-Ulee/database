@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "15/05/2024 15:45:52 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
+    "waktu": "15/05/2024 14:38:45 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "15/05/2024 14:32:20 WIB",
     "lintang": "2.95 LS",
     "bujur": "119.4 BT",
@@ -234,39 +256,6 @@
     "wilayah": "Pusat gempa berada di darat 52 km Barat Laut Sanggau",
     "warning": [
       "II - III Sanggau"
-    ]
-  },
-  {
-    "waktu": "07/05/2024 10:34:59 WIB",
-    "lintang": "8.82 LS",
-    "bujur": "110.93 BT",
-    "magnitudo": "5",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di Laut, 73 km BaratDaya Pacitan",
-    "warning": [
-      "III Bantul",
-      "III Yogyakarta",
-      "II Sukoharjo",
-      "III Pacitan",
-      "II-III Trenggalek",
-      "II-III Blitar",
-      "II-III Tulungagung",
-      "II-III Malang",
-      "II Nganjuk",
-      "III Wonogiri",
-      "II Klaten"
-    ]
-  },
-  {
-    "waktu": "07/05/2024 06:33:42 WIB",
-    "lintang": "1.09 LS",
-    "bujur": "120.41 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Sausu-Kab. Parigi Moutong",
-    "warning": [
-      "III - IV Sausu",
-      "II - III Poso"
     ]
   }
 ]
