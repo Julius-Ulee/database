@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/07/2024 07:08:01 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "128.31 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km Tenggara Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "17/07/2024 06:39:32 WIB",
     "lintang": "1.3 LU",
     "bujur": "126.12 BT",
@@ -222,22 +233,6 @@
     "warning": [
       "II-III Konawe",
       "II-III Konawe Utara"
-    ]
-  },
-  {
-    "waktu": "11/07/2024 09:13:17 WIB",
-    "lintang": "6.14 LU",
-    "bujur": "123.28 BT",
-    "magnitudo": "7",
-    "kedalaman": "632 Km",
-    "wilayah": "Pusat gempa berada di laut 373 km baratlaut Tahuna",
-    "warning": [
-      "II-III Halmahera Barat",
-      "II-III Halmahera Selatan",
-      "II-III Halmahera Tengah",
-      "II-III Taliabu",
-      "II-III Ternate",
-      "II - III Talaud"
     ]
   }
 ]
